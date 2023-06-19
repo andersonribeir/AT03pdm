@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vamos Rachar App</string>
+    <string name="input_valor">Valor Total</string>
+    <string name="input_pessoas">Qtd. Pessoas</string>
+</resources>
